@@ -9,3 +9,5 @@ code author: Dr. Nadia Barreiro
 Jupyter notebook code
 
 COPY BOTH FILES TO THE SAME FOLDER TO RUN THE CODE.
+
+[![DOI](https://zenodo.org/badge/508874828.svg)](https://zenodo.org/badge/latestdoi/508874828)
